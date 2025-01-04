@@ -1,4 +1,5 @@
 # Super Store Sales Analysis
+![TITLE](https://github.com/amedustephen/Superstore-Sales-Analysis-with-Dashboard/blob/main/reports/images/superstore-eda-cover.jpg)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
